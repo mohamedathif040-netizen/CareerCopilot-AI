@@ -254,9 +254,8 @@ streamlit run app.py
 
 ## ☁️ Live Demo
 
-```text
 https://careercopilot-ai-athif.streamlit.app/
-```
+
 ---
 
 ## 📊 Evaluation Highlights
