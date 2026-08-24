@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="CareerCopilot AI Banner" width="100%">
+</p>
+
 # 🚀 CareerCopilot AI
 
 <div align="center">
@@ -115,6 +119,10 @@ L --> N[Resume Download]
 ---
 
 ## 🖥️ Dashboard Preview
+
+![alt text](image.png)
+
+---
 
 ### Main Features
 
@@ -247,15 +255,8 @@ streamlit run app.py
 ## ☁️ Live Demo
 
 ```text
-Add your deployed Streamlit URL here
+https://careercopilot-ai-athif.streamlit.app/
 ```
-
-Example:
-
-```text
-https://careercopilot-ai.streamlit.app
-```
-
 ---
 
 ## 📊 Evaluation Highlights
@@ -293,9 +294,9 @@ B.E Computer Science Engineering
 
 Bengaluru, India
 
-GitHub: https://github.com/mohamedathif040-netizen
+GitHub: https://github.com/mohamedathif040-netizen/CareerCopilot-AI
 
-LinkedIn: Add Your LinkedIn Profile
+LinkedIn: https://www.linkedin.com/in/mohamed-athif-a674ab416
 
 ---
 

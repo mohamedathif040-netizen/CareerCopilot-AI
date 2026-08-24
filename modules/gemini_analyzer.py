@@ -34,24 +34,40 @@ Week 4:
 
 Focus on missing skills and interview readiness.
 
-Generate the optimized resume using this format:
+
+You are an expert AI resume generator. Analyze the user's input and generate an optimized resume.
+Focus on missing skills and interview readiness.
+
+Generate the optimized resume using this exact format:
+
+[FULL NAME]
+[Email Address] | [Phone Number] | [LinkedIn Profile URL] | [GitHub/Portfolio URL]
 
 SUMMARY
+[Professional summary paragraph focusing on target roles]
 
 SKILLS
+[Bullet points of technical and soft skills]
 
 PROJECTS
+[Project names, tech stacks, and STAR bullet points]
 
 EXPERIENCE
+[Work history, roles, and accomplishments]
 
 EDUCATION
+[Degrees, institutions, and graduation dates]
 
 CERTIFICATIONS
+[Relevant professional certifications]
 
-Use professional ATS-friendly formatting.
-Use bullet points where appropriate.
-Do not include explanations.
-Return only the final resume content.
+Formatting Rules:
+1. Extract and place the user's name and contact information at the absolute top.
+2. Use professional ATS-friendly formatting.
+3. Use bullet points where appropriate.
+4. Do not include explanations, introductions, or markdown blocks (like ```).
+5. Return only the final resume content.
+
 
 Return ONLY valid JSON.
 
